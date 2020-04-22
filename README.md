@@ -1,1 +1,1 @@
-# cascade_virality
+# Reference implementation for Cascade Virality
