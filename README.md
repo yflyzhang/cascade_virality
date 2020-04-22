@@ -6,3 +6,4 @@
 
 ----
 #### If you find this useful in your project, please consider cite our paper:
+> Go viral or go broadcast? Characterizing the virality and growth of cascades
