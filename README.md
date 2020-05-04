@@ -7,7 +7,7 @@
 
 <br/>
 
-`tools.py`: Python code for quantifying cascade virality
+`tools.py`: functions for quantifying cascade virality
 
 `demo.ipynb`: demonstration of how to use
 
