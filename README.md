@@ -5,7 +5,8 @@
 
 ![Rooted vs unrooted cascades](cascade_example.png)
 
----
+<br/>
+<br/>
 
 `tools.py`: Python code for quantifying cascade virality
 
