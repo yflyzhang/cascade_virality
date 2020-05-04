@@ -25,5 +25,5 @@ pygraphviz (if using graphviz_layout)
 
 
 ---
-#### If you find this useful in your project, please consider cite our paper:
+#### If you find this useful in your project, please consider citing our paper:
 > Go viral or go broadcast? Characterizing the virality and growth of cascades
