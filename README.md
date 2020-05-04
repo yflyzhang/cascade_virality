@@ -6,6 +6,19 @@
 ![Rooted vs unrooted cascades](cascade_example.png)
 
 
+`tools.py`: Python code for quantifying cascade virality
+
+`demo.ipynb`: demonstration of how to use
+
+Main dependencies:
+```
+time
+numpy
+networkx
+matplotlib
+pygraphviz (if using graphviz_layout)
+```
+
 
 
 ----
