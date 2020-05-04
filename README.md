@@ -1,16 +1,17 @@
 ### Reference implementation for Cascade Virality
-
+<br/>
 
 
 
 ![Rooted vs unrooted cascades](cascade_example.png)
 
 <br/>
-<br/>
 
 `tools.py`: Python code for quantifying cascade virality
 
 `demo.ipynb`: demonstration of how to use
+
+<br/>
 
 Main dependencies:
 ```
