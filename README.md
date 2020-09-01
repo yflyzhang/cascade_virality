@@ -29,4 +29,5 @@ pygraphviz (needed if graphviz_layout is used)
 > **Viral vs. broadcast: Characterizing the virality and growth of cascades**. <br/>
 Zhang, Y., Wang, L., Zhu, J. J., & Wang, X.  <br/>
 EPL (Europhysics Letters), 131(2), 28002. (2020). <br/>
-[Journal link](https://iopscience.iop.org/article/10.1209/0295-5075/131/28002/meta)
+
+[EPL journal link](https://iopscience.iop.org/article/10.1209/0295-5075/131/28002/meta)
