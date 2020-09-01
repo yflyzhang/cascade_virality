@@ -26,4 +26,4 @@ pygraphviz (needed if graphviz_layout is used)
 
 ---
 #### If you find this useful in your project, please consider citing our paper:
-> Viral vs. broadcast: Characterizing the virality and growth of cascades
+> Zhang, Y., Wang, L., Zhu, J. J., & Wang, X. (2020). Viral vs. broadcast: Characterizing the virality and growth of cascades. EPL (Europhysics Letters), 131(2), 28002.
