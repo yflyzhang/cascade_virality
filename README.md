@@ -31,3 +31,5 @@ Zhang, Y., Wang, L., Zhu, J. J., & Wang, X.  <br/>
 <em>EPL (Europhysics Letters)</em>, 131(2), 28002 (2020).
 
 &nbsp;&nbsp;&nbsp;&nbsp;[EPL journal link](https://iopscience.iop.org/article/10.1209/0295-5075/131/28002/meta)
+
+Should you have any further quires about the code, please contact at: yflyzhang_at_gmail.com
