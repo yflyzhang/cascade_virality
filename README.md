@@ -4,6 +4,7 @@
 
 
 ![Rooted vs unrooted cascades](cascade_example.png)
+![Cascade virality](cascade_virality_Github.svg)
 
 <br/>
 
