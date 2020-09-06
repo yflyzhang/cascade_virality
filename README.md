@@ -4,7 +4,7 @@
 
 
 ![Cascade virality](cascade_virality.svg)
-<img src="cascade_virality.svg" width="60" />
+<img src="cascade_virality.svg" width="600" />
 
 
 <br/>
