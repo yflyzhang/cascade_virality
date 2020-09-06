@@ -34,6 +34,7 @@ Zhang, Y., Wang, L., Zhu, J. J., & Wang, X.  <br/>
 
 A long version of this paper is also available at arXiv:
 > **Go viral or go broadcast? Characterizing the virality and growth of cascades**. <br/>
+arXiv preprint arXiv:2006.01027 (2020). <br/>
 [arXiv link](https://arxiv.org/abs/2006.01027)
 
 Should you have any further quires about the code, please contact at: yflyzhang_at_gmail.com
