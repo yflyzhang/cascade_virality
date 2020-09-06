@@ -3,8 +3,7 @@
 
 
 
-![Cascade virality](cascade_virality.svg)
-<img src="cascade_virality.svg" width="800" />
+<img align="center" src="cascade_virality.svg" width="800" />
 
 
 <br/>
