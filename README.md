@@ -3,7 +3,7 @@
 
 
 
-![Cascade virality](cascade_virality.svg)
+![Cascade virality](cascade_virality.svg | width=60)
 
 <br/>
 
