@@ -3,7 +3,9 @@
 
 
 
-![Cascade virality](cascade_virality.svg | width=60)
+![Cascade virality](cascade_virality.svg)
+<img src="cascade_virality.svg" width="60" />
+
 
 <br/>
 
