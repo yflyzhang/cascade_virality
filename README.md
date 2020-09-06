@@ -3,7 +3,7 @@
 
 
 
-<img align="left" src="cascade_virality.svg" width="700" />
+<img src="cascade_virality.svg" width="700" />
 
 
 <br/>
